@@ -1,0 +1,549 @@
+<File>
+  <Header RepositoryId="" ModelId="0" MetaVersion="1.0.0" Version="" VersionName="" PriorVersionName="" Storage="File" BirthUUID="b90cae53-b95f-41a5-a47f-741b917c2e2a" FilePath="D:\桌面\嘉实实习\subscribe.ddm" StorePath="" />
+  <Model Seed="74" SeedMax="0" Type="Datablau.LDM.ModelSource">
+    <Property Id="90000001" Type="System.Int32" Value="80010001" />
+    <Property Id="90000002" Type="System.Int32" Value="1" />
+    <Property Id="90000003" Type="System.String" Value="Model_1" />
+    <Property Id="90000006" Type="System.Guid" Value="b90cae53-b95f-41a5-a47f-741b917c2e2a" />
+    <Property Id="90000007" Type="System.Guid" Value="f2b1c0d4-1e4e-4ce4-9c98-988191d63c55" />
+    <Object Type="Datablau.ERD.Diagram">
+      <Property Id="90000001" Type="System.Int32" Value="80000006" />
+      <Property Id="90000002" Type="System.Int32" Value="2" />
+      <Property Id="90000003" Type="System.String" Value="Main" />
+      <Property Id="90000006" Type="System.Guid" Value="33f646f1-6dba-4dba-82d4-31c089df9ff0" />
+      <Property Id="80100000" Type="System.Boolean" Value="True" />
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="4" />
+        <Property Id="90000006" Type="System.Guid" Value="b00dee3c-6dd1-4f99-a024-a021da545f3c" />
+        <Property Id="90000011" Type="System.Int32" Value="3" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="675, 303" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="245, 116" />
+        <Property Id="80500088" Type="System.String" Value="NamedColor:Highlight" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="8" />
+        <Property Id="90000006" Type="System.Guid" Value="f01020c8-7bb3-4d00-aa4e-85ccdeecffb4" />
+        <Property Id="90000011" Type="System.Int32" Value="7" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="307, 40" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="245, 116" />
+        <Property Id="80500087" Type="System.String" Value="NamedColor:White" />
+        <Property Id="80500088" Type="System.String" Value="NamedColor:Highlight" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="12" />
+        <Property Id="90000006" Type="System.Guid" Value="a26c4f4f-8987-4782-9cbd-2537e9ad31ae" />
+        <Property Id="90000011" Type="System.Int32" Value="11" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="1342, 523" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="245, 116" />
+        <Property Id="80500087" Type="System.String" Value="NamedColor:White" />
+        <Property Id="80500088" Type="System.String" Value="NamedColor:Highlight" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="16" />
+        <Property Id="90000006" Type="System.Guid" Value="5485d063-ec58-4f5f-88a0-7e593c18cb99" />
+        <Property Id="90000011" Type="System.Int32" Value="15" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="1342, 357" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="272, 131" />
+        <Property Id="80500087" Type="System.String" Value="NamedColor:White" />
+        <Property Id="80500088" Type="System.String" Value="NamedColor:Highlight" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="20" />
+        <Property Id="90000006" Type="System.Guid" Value="40b5b280-70dc-4270-8013-2c080b9d9d9c" />
+        <Property Id="90000011" Type="System.Int32" Value="19" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="307, 409" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="245, 116" />
+        <Property Id="80500087" Type="System.String" Value="NamedColor:White" />
+        <Property Id="80500088" Type="System.String" Value="NamedColor:Highlight" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="28" />
+        <Property Id="90000006" Type="System.Guid" Value="55b2ddf9-cbe3-4a7d-bf3a-096db049ae9b" />
+        <Property Id="90000011" Type="System.Int32" Value="27" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="1019, 184" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="245, 116" />
+        <Property Id="80500087" Type="System.String" Value="NamedColor:White" />
+        <Property Id="80500088" Type="System.String" Value="NamedColor:Highlight" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="32" />
+        <Property Id="90000006" Type="System.Guid" Value="18dae439-62a6-4506-96cd-5f0e6b7f6b0e" />
+        <Property Id="90000011" Type="System.Int32" Value="31" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="1019, 357" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="245, 116" />
+        <Property Id="80500087" Type="System.String" Value="NamedColor:White" />
+        <Property Id="80500088" Type="System.String" Value="NamedColor:Highlight" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="34" />
+        <Property Id="90000006" Type="System.Guid" Value="a373de39-0224-45de-877f-83212d84ed6a" />
+        <Property Id="90000011" Type="System.Int32" Value="33" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="1342, 40" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="254, 280" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="44" />
+        <Property Id="90000006" Type="System.Guid" Value="febb044f-3405-4ae9-ba46-3b017223b7b6" />
+        <Property Id="90000011" Type="System.Int32" Value="43" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="307, 224" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="245, 116" />
+        <Property Id="80500087" Type="System.String" Value="NamedColor:White" />
+        <Property Id="80500088" Type="System.String" Value="NamedColor:Highlight" />
+      </Object>
+      <Object Type="Datablau.ERD.ConnectionRelational">
+        <Property Id="90000001" Type="System.Int32" Value="80000009" />
+        <Property Id="90000002" Type="System.Int32" Value="50" />
+        <Property Id="90000003" Type="System.String" Value="Connection_50" />
+        <Property Id="90000006" Type="System.Guid" Value="9c4bc7c3-e603-4bfb-9e55-7a7a45c36cd6" />
+        <Property Id="90000011" Type="System.Int32" Value="47" />
+        <Property Id="80000060" Type="System.Int32" Value="20" />
+        <Property Id="80000061" Type="System.Int32" Value="44" />
+        <Property Id="80500055" Type="Datablau.LDM.LineOrientation" Value="Vertical" />
+        <Property Id="80500056" Type="Datablau.LDM.LineOrientation" Value="Vertical" />
+      </Object>
+      <Object Type="Datablau.ERD.ConnectionRelational">
+        <Property Id="90000001" Type="System.Int32" Value="80000009" />
+        <Property Id="90000002" Type="System.Int32" Value="55" />
+        <Property Id="90000003" Type="System.String" Value="Connection_55" />
+        <Property Id="90000006" Type="System.Guid" Value="ca742d3e-20b6-4e55-b8ab-d1774c758f5d" />
+        <Property Id="90000011" Type="System.Int32" Value="52" />
+        <Property Id="80000060" Type="System.Int32" Value="8" />
+        <Property Id="80000061" Type="System.Int32" Value="44" />
+        <Property Id="80500055" Type="Datablau.LDM.LineOrientation" Value="Vertical" />
+        <Property Id="80500056" Type="Datablau.LDM.LineOrientation" Value="Vertical" />
+      </Object>
+      <Object Type="Datablau.ERD.ShapeEntity">
+        <Property Id="90000001" Type="System.Int32" Value="80000008" />
+        <Property Id="90000002" Type="System.Int32" Value="57" />
+        <Property Id="90000006" Type="System.Guid" Value="5695e735-6d9b-4f0c-a40b-eeb8709ad5dc" />
+        <Property Id="90000011" Type="System.Int32" Value="56" />
+        <Property Id="80000003" Type="System.Drawing.Point" Value="675, 40" />
+        <Property Id="80000026" Type="System.Drawing.Size" Value="259, 152" />
+        <Property Id="80500088" Type="System.String" Value="ARGBColor:255:195:214:155" />
+      </Object>
+      <Object Type="Datablau.ERD.ConnectionRelational">
+        <Property Id="90000001" Type="System.Int32" Value="80000009" />
+        <Property Id="90000002" Type="System.Int32" Value="60" />
+        <Property Id="90000003" Type="System.String" Value="Connection_60" />
+        <Property Id="90000006" Type="System.Guid" Value="bb777c4a-5241-454f-b216-db6132154006" />
+        <Property Id="90000011" Type="System.Int32" Value="58" />
+        <Property Id="80000060" Type="System.Int32" Value="8" />
+        <Property Id="80000061" Type="System.Int32" Value="57" />
+        <Property Id="80500055" Type="Datablau.LDM.LineOrientation" Value="Horizontal" />
+        <Property Id="80500056" Type="Datablau.LDM.LineOrientation" Value="Horizontal" />
+      </Object>
+      <Object Type="Datablau.ERD.ConnectionRelational">
+        <Property Id="90000001" Type="System.Int32" Value="80000009" />
+        <Property Id="90000002" Type="System.Int32" Value="64" />
+        <Property Id="90000003" Type="System.String" Value="Connection_64" />
+        <Property Id="90000006" Type="System.Guid" Value="dead2cea-8f49-49f6-a1ab-f2641be9eb90" />
+        <Property Id="90000011" Type="System.Int32" Value="61" />
+        <Property Id="80000060" Type="System.Int32" Value="4" />
+        <Property Id="80000061" Type="System.Int32" Value="57" />
+        <Property Id="80500055" Type="Datablau.LDM.LineOrientation" Value="Vertical" />
+        <Property Id="80500056" Type="Datablau.LDM.LineOrientation" Value="Vertical" />
+      </Object>
+      <Object Type="Datablau.ERD.ConnectionRelational">
+        <Property Id="90000001" Type="System.Int32" Value="80000009" />
+        <Property Id="90000002" Type="System.Int32" Value="71" />
+        <Property Id="90000003" Type="System.String" Value="Connection_71" />
+        <Property Id="90000006" Type="System.Guid" Value="02e4fcb1-dbd0-4f01-9a0c-5b5531890775" />
+        <Property Id="90000011" Type="System.Int32" Value="69" />
+        <Property Id="80000060" Type="System.Int32" Value="4" />
+        <Property Id="80000061" Type="System.Int32" Value="28" />
+        <Property Id="80500055" Type="Datablau.LDM.LineOrientation" Value="Horizontal" />
+        <Property Id="80500056" Type="Datablau.LDM.LineOrientation" Value="Horizontal" />
+      </Object>
+      <Object Type="Datablau.ERD.ConnectionRelational">
+        <Property Id="90000001" Type="System.Int32" Value="80000009" />
+        <Property Id="90000002" Type="System.Int32" Value="74" />
+        <Property Id="90000003" Type="System.String" Value="Connection_74" />
+        <Property Id="90000006" Type="System.Guid" Value="69690cf4-a43b-4c0d-bb5d-2a663e8cc300" />
+        <Property Id="90000011" Type="System.Int32" Value="72" />
+        <Property Id="80000060" Type="System.Int32" Value="4" />
+        <Property Id="80000061" Type="System.Int32" Value="32" />
+        <Property Id="80500055" Type="Datablau.LDM.LineOrientation" Value="Horizontal" />
+        <Property Id="80500056" Type="Datablau.LDM.LineOrientation" Value="Horizontal" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="3" />
+      <Property Id="90000003" Type="System.String" Value="fundproduct" />
+      <Property Id="90000006" Type="System.Guid" Value="2ad13938-9f02-4cee-be1b-3098d4a6f416" />
+      <Property Id="80100005" Type="System.String" Value="基金产品" />
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="62" />
+        <Property Id="90000003" Type="System.String" Value="pk_fundproduct_1" />
+        <Property Id="90000006" Type="System.Guid" Value="e7e2dddb-418d-4a48-b876-3f2cd316822f" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="PrimaryKey" />
+        <Property Id="80300006" Type="System.Boolean" Value="True" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="7" />
+      <Property Id="90000003" Type="System.String" Value="customer" />
+      <Property Id="90000006" Type="System.Guid" Value="507ffca2-6bad-45b7-92ff-68a9ee21e831" />
+      <Property Id="80100005" Type="System.String" Value="投资者" />
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="53" />
+        <Property Id="90000003" Type="System.String" Value="pk_customer_1" />
+        <Property Id="90000006" Type="System.Guid" Value="1c3b47f9-d396-4067-bc7e-e127ad86c1b6" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="PrimaryKey" />
+        <Property Id="80300006" Type="System.Boolean" Value="True" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="11" />
+      <Property Id="90000003" Type="System.String" Value="channel" />
+      <Property Id="90000006" Type="System.Guid" Value="9e067a87-0974-4bcc-a9df-77fd664a48e4" />
+      <Property Id="80100005" Type="System.String" Value="渠道" />
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="15" />
+      <Property Id="90000003" Type="System.String" Value="auditor" />
+      <Property Id="90000006" Type="System.Guid" Value="1a249232-9a5a-49b5-8759-5d07a2085037" />
+      <Property Id="80100005" Type="System.String" Value="审核人" />
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="19" />
+      <Property Id="90000003" Type="System.String" Value="bankcard" />
+      <Property Id="90000006" Type="System.Guid" Value="fa479151-1d07-494f-b6e4-d7768b67dbf4" />
+      <Property Id="80100005" Type="System.String" Value="银行卡" />
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="48" />
+        <Property Id="90000003" Type="System.String" Value="pk_bankcard_1" />
+        <Property Id="90000006" Type="System.Guid" Value="d2eaa949-999c-4102-9b4a-58bb413f2bd6" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="PrimaryKey" />
+        <Property Id="80300006" Type="System.Boolean" Value="True" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="27" />
+      <Property Id="90000003" Type="System.String" Value="fundmanager" />
+      <Property Id="90000006" Type="System.Guid" Value="971d372e-fd54-457f-8593-4bff19cf8c70" />
+      <Property Id="80100005" Type="System.String" Value="基金经理" />
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="70" />
+        <Property Id="90000003" Type="System.String" Value="fk_fundmanager_1" />
+        <Property Id="90000006" Type="System.Guid" Value="99879a1d-b732-4166-b5a9-162ee5677083" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="ForeignKey" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="31" />
+      <Property Id="90000003" Type="System.String" Value="fundcompany" />
+      <Property Id="90000006" Type="System.Guid" Value="61d13eed-71b6-40cc-a405-f46d14115f91" />
+      <Property Id="80100005" Type="System.String" Value="基金管理机构" />
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="73" />
+        <Property Id="90000003" Type="System.String" Value="fk_fundcompany_1" />
+        <Property Id="90000006" Type="System.Guid" Value="c130f94e-bcb3-4c1d-aa09-1baf48387437" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="ForeignKey" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="33" />
+      <Property Id="90000003" Type="System.String" Value="trequest" />
+      <Property Id="90000006" Type="System.Guid" Value="28834032-37ad-4862-be01-b61b7e722e8a" />
+      <Property Id="80100005" Type="System.String" Value="交易行为表" />
+      <Property Id="80100007" Type="System.String" Value="35,36,37,38,39,40,45,46,51" />
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="35" />
+        <Property Id="90000003" Type="System.String" Value="customerid" />
+        <Property Id="90000006" Type="System.Guid" Value="a0fee68c-7f8f-4df7-b928-626b21af4945" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="投资者" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="36" />
+        <Property Id="90000003" Type="System.String" Value="fundproductid" />
+        <Property Id="90000006" Type="System.Guid" Value="02ab421e-dc63-45c3-a394-9cc4faa36508" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="基金产品" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="37" />
+        <Property Id="90000003" Type="System.String" Value="ordertime" />
+        <Property Id="90000006" Type="System.Guid" Value="674ccb05-ea90-4421-b7d9-e04ae56e54d3" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="下单时间" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="38" />
+        <Property Id="90000003" Type="System.String" Value="balance" />
+        <Property Id="90000006" Type="System.Guid" Value="304ce190-23a6-4af7-949d-99cf41fa6604" />
+        <Property Id="80000002" Type="System.String" Value="NUMBER(16,2)" />
+        <Property Id="80100005" Type="System.String" Value="金额" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="39" />
+        <Property Id="90000003" Type="System.String" Value="tradeacco" />
+        <Property Id="90000006" Type="System.Guid" Value="16512d2e-7209-4382-8cd2-72d46fe09e38" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="交易账户" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="40" />
+        <Property Id="90000003" Type="System.String" Value="auditorid" />
+        <Property Id="90000006" Type="System.Guid" Value="2a6d5e9f-245a-4f3c-9909-f21921d44fe1" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="审核人" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="45" />
+        <Property Id="90000003" Type="System.String" Value="requestno" />
+        <Property Id="90000006" Type="System.Guid" Value="f593bca9-f1a4-4077-b5ae-126a7bce1aa9" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="订单号" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="46" />
+        <Property Id="90000003" Type="System.String" Value="accepttime" />
+        <Property Id="90000006" Type="System.Guid" Value="75fe4b8c-145a-4e6a-a7b3-42762c02b2ad" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="受理时间" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="51" />
+        <Property Id="90000003" Type="System.String" Value="channel" />
+        <Property Id="90000006" Type="System.Guid" Value="4217548d-2849-4208-82ed-318d08fe4d64" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="渠道" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="43" />
+      <Property Id="90000003" Type="System.String" Value="tradeacco" />
+      <Property Id="90000006" Type="System.Guid" Value="bb2ec071-ca08-43c8-bd9f-0668286199e8" />
+      <Property Id="80100005" Type="System.String" Value="交易账户" />
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="49" />
+        <Property Id="90000003" Type="System.String" Value="fk_tradeacco_1" />
+        <Property Id="90000006" Type="System.Guid" Value="f5097532-6d53-4b3d-93eb-40af4a1603dc" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="ForeignKey" />
+        <Property Id="80300006" Type="System.Boolean" Value="True" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="54" />
+        <Property Id="90000003" Type="System.String" Value="fk_tradeacco_2" />
+        <Property Id="90000006" Type="System.Guid" Value="e4f8831c-5a63-4233-99ed-f57e7145b6b8" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="ForeignKey" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.RelationshipRelational">
+      <Property Id="90000001" Type="System.Int32" Value="80000007" />
+      <Property Id="90000002" Type="System.Int32" Value="47" />
+      <Property Id="90000003" Type="System.String" Value="rs_bankcard_tradeacco" />
+      <Property Id="90000004" Type="System.String" Value="Non-database built relationship" />
+      <Property Id="90000006" Type="System.Guid" Value="7af081a4-04fa-4e0b-868d-ffadbb825af9" />
+      <Property Id="80000021" Type="System.String" Value="ref" />
+      <Property Id="80000052" Type="System.Int32" Value="19" />
+      <Property Id="80000053" Type="System.Int32" Value="43" />
+      <Property Id="80000054" Type="System.Int32" Value="48" />
+      <Property Id="80000055" Type="System.Int32" Value="49" />
+      <Property Id="80000069" Type="Datablau.LDM.NotationType" Value="InformationEngineering" />
+      <Property Id="80000070" Type="Datablau.LDM.RelationalType" Value="NonIdentifying" />
+      <Property Id="80000071" Type="Datablau.LDM.CardinalityType" Value="OneOnly" />
+      <Property Id="80000072" Type="Datablau.LDM.CardinalityType" Value="OneOnly" />
+      <Property Id="80000073" Type="Datablau.LDM.Direction" Value="Unidirectional" />
+      <Property Id="80000074" Type="System.String" Value="bankcard" />
+      <Property Id="80000075" Type="System.String" Value="tradeacco" />
+      <Property Id="80000076" Type="System.String" Value="0,1" />
+      <Property Id="80000077" Type="System.String" Value="0,1" />
+    </Object>
+    <Object Type="Datablau.LDM.RelationshipRelational">
+      <Property Id="90000001" Type="System.Int32" Value="80000007" />
+      <Property Id="90000002" Type="System.Int32" Value="52" />
+      <Property Id="90000003" Type="System.String" Value="rs_customer_tradeacco" />
+      <Property Id="90000004" Type="System.String" Value="Non-database built relationship" />
+      <Property Id="90000006" Type="System.Guid" Value="4f4fea81-4e63-4cb1-9fb9-c41a7fffb2ed" />
+      <Property Id="80000021" Type="System.String" Value="ref" />
+      <Property Id="80000052" Type="System.Int32" Value="7" />
+      <Property Id="80000053" Type="System.Int32" Value="43" />
+      <Property Id="80000054" Type="System.Int32" Value="53" />
+      <Property Id="80000055" Type="System.Int32" Value="54" />
+      <Property Id="80000069" Type="Datablau.LDM.NotationType" Value="InformationEngineering" />
+      <Property Id="80000070" Type="Datablau.LDM.RelationalType" Value="NonIdentifying" />
+      <Property Id="80000071" Type="Datablau.LDM.CardinalityType" Value="ZeroOrOne" />
+      <Property Id="80000072" Type="Datablau.LDM.CardinalityType" Value="ZeroOneOrMore" />
+      <Property Id="80000073" Type="Datablau.LDM.Direction" Value="Unidirectional" />
+      <Property Id="80000074" Type="System.String" Value="customer" />
+      <Property Id="80000075" Type="System.String" Value="tradeacco" />
+      <Property Id="80000076" Type="System.String" Value="0,1" />
+      <Property Id="80000077" Type="System.String" Value="1,n" />
+    </Object>
+    <Object Type="Datablau.LDM.EntityComposite">
+      <Property Id="90000001" Type="System.Int32" Value="80000004" />
+      <Property Id="90000002" Type="System.Int32" Value="56" />
+      <Property Id="90000003" Type="System.String" Value="cust_fund_rela" />
+      <Property Id="90000006" Type="System.Guid" Value="cfc96f06-84a9-4ba6-994f-f72bb06c7bc9" />
+      <Property Id="80100005" Type="System.String" Value="投资人和基金关系表" />
+      <Property Id="80100007" Type="System.String" Value="67,68,65,66" />
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="59" />
+        <Property Id="90000003" Type="System.String" Value="fk_cust_fund_rela_1" />
+        <Property Id="90000006" Type="System.Guid" Value="7c05d065-ac06-49b6-92ed-c526e3f5c3d3" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="ForeignKey" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityKeyGroup">
+        <Property Id="90000001" Type="System.Int32" Value="80000093" />
+        <Property Id="90000002" Type="System.Int32" Value="63" />
+        <Property Id="90000003" Type="System.String" Value="fk_cust_fund_rela_2" />
+        <Property Id="90000006" Type="System.Guid" Value="83eaad7e-b42b-4c9f-a765-b4a100d7baa4" />
+        <Property Id="80000097" Type="Datablau.LDM.KeyGroupType" Value="ForeignKey" />
+        <Property Id="80300006" Type="System.Boolean" Value="True" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="65" />
+        <Property Id="90000003" Type="System.String" Value="requestbala" />
+        <Property Id="90000006" Type="System.Guid" Value="eeb860d2-83eb-491d-98d8-824e49bd70e2" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="金额" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="66" />
+        <Property Id="90000003" Type="System.String" Value="time" />
+        <Property Id="90000006" Type="System.Guid" Value="bbe411f5-dc7a-427b-afad-829a9e08aa63" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="时间" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="67" />
+        <Property Id="90000003" Type="System.String" Value="customerid" />
+        <Property Id="90000006" Type="System.Guid" Value="89a2d9bf-d5a8-47d2-92c3-d4dbe4cba4ed" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="投资者ID" />
+      </Object>
+      <Object Type="Datablau.LDM.EntityAttribute">
+        <Property Id="90000001" Type="System.Int32" Value="80000005" />
+        <Property Id="90000002" Type="System.Int32" Value="68" />
+        <Property Id="90000003" Type="System.String" Value="fundproductid" />
+        <Property Id="90000006" Type="System.Guid" Value="fc7fac23-fc1c-4231-84d5-815c433c6bbf" />
+        <Property Id="80000002" Type="System.String" Value="VARCHAR(20)" />
+        <Property Id="80100005" Type="System.String" Value="基金产品ID" />
+      </Object>
+    </Object>
+    <Object Type="Datablau.LDM.RelationshipRelational">
+      <Property Id="90000001" Type="System.Int32" Value="80000007" />
+      <Property Id="90000002" Type="System.Int32" Value="58" />
+      <Property Id="90000003" Type="System.String" Value="rs_customer_cust_fund_rela" />
+      <Property Id="90000004" Type="System.String" Value="Non-database built relationship" />
+      <Property Id="90000006" Type="System.Guid" Value="fabdaba0-c6a7-4a3c-abe2-bfa8cd425f34" />
+      <Property Id="80000021" Type="System.String" Value="ref" />
+      <Property Id="80000052" Type="System.Int32" Value="7" />
+      <Property Id="80000053" Type="System.Int32" Value="56" />
+      <Property Id="80000054" Type="System.Int32" Value="53" />
+      <Property Id="80000055" Type="System.Int32" Value="59" />
+      <Property Id="80000069" Type="Datablau.LDM.NotationType" Value="InformationEngineering" />
+      <Property Id="80000070" Type="Datablau.LDM.RelationalType" Value="NonIdentifying" />
+      <Property Id="80000071" Type="Datablau.LDM.CardinalityType" Value="ZeroOrOne" />
+      <Property Id="80000072" Type="Datablau.LDM.CardinalityType" Value="ZeroOneOrMore" />
+      <Property Id="80000073" Type="Datablau.LDM.Direction" Value="Unidirectional" />
+      <Property Id="80000074" Type="System.String" Value="customer" />
+      <Property Id="80000075" Type="System.String" Value="cust_fund_rela" />
+      <Property Id="80000076" Type="System.String" Value="0,1" />
+      <Property Id="80000077" Type="System.String" Value="1,n" />
+    </Object>
+    <Object Type="Datablau.LDM.RelationshipRelational">
+      <Property Id="90000001" Type="System.Int32" Value="80000007" />
+      <Property Id="90000002" Type="System.Int32" Value="61" />
+      <Property Id="90000003" Type="System.String" Value="rs_fundproduct_cust_fund_rela" />
+      <Property Id="90000004" Type="System.String" Value="Non-database built relationship" />
+      <Property Id="90000006" Type="System.Guid" Value="d24a0b0c-e760-4bbe-926e-25e9949112e9" />
+      <Property Id="80000021" Type="System.String" Value="ref" />
+      <Property Id="80000052" Type="System.Int32" Value="3" />
+      <Property Id="80000053" Type="System.Int32" Value="56" />
+      <Property Id="80000054" Type="System.Int32" Value="62" />
+      <Property Id="80000055" Type="System.Int32" Value="63" />
+      <Property Id="80000069" Type="Datablau.LDM.NotationType" Value="InformationEngineering" />
+      <Property Id="80000070" Type="Datablau.LDM.RelationalType" Value="Identifying" />
+      <Property Id="80000071" Type="Datablau.LDM.CardinalityType" Value="OneOnly" />
+      <Property Id="80000072" Type="Datablau.LDM.CardinalityType" Value="ZeroOneOrMore" />
+      <Property Id="80000073" Type="Datablau.LDM.Direction" Value="Unidirectional" />
+      <Property Id="80000074" Type="System.String" Value="fundproduct" />
+      <Property Id="80000075" Type="System.String" Value="cust_fund_rela" />
+      <Property Id="80000076" Type="System.String" Value="0,1" />
+      <Property Id="80000077" Type="System.String" Value="0,1" />
+    </Object>
+    <Object Type="Datablau.LDM.RelationshipRelational">
+      <Property Id="90000001" Type="System.Int32" Value="80000007" />
+      <Property Id="90000002" Type="System.Int32" Value="69" />
+      <Property Id="90000003" Type="System.String" Value="rs_fundproduct_fundmanager" />
+      <Property Id="90000004" Type="System.String" Value="Non-database built relationship" />
+      <Property Id="90000006" Type="System.Guid" Value="94b1c895-629b-4606-8cdc-8db6699114dc" />
+      <Property Id="80000021" Type="System.String" Value="ref" />
+      <Property Id="80000052" Type="System.Int32" Value="3" />
+      <Property Id="80000053" Type="System.Int32" Value="27" />
+      <Property Id="80000054" Type="System.Int32" Value="62" />
+      <Property Id="80000055" Type="System.Int32" Value="70" />
+      <Property Id="80000069" Type="Datablau.LDM.NotationType" Value="InformationEngineering" />
+      <Property Id="80000070" Type="Datablau.LDM.RelationalType" Value="NonIdentifying" />
+      <Property Id="80000071" Type="Datablau.LDM.CardinalityType" Value="ZeroOrOne" />
+      <Property Id="80000072" Type="Datablau.LDM.CardinalityType" Value="ZeroOneOrMore" />
+      <Property Id="80000073" Type="Datablau.LDM.Direction" Value="Unidirectional" />
+      <Property Id="80000074" Type="System.String" Value="fundproduct" />
+      <Property Id="80000075" Type="System.String" Value="fundmanager" />
+      <Property Id="80000076" Type="System.String" Value="0,1" />
+      <Property Id="80000077" Type="System.String" Value="1,n" />
+    </Object>
+    <Object Type="Datablau.LDM.RelationshipRelational">
+      <Property Id="90000001" Type="System.Int32" Value="80000007" />
+      <Property Id="90000002" Type="System.Int32" Value="72" />
+      <Property Id="90000003" Type="System.String" Value="rs_fundproduct_fundcompany" />
+      <Property Id="90000004" Type="System.String" Value="Non-database built relationship" />
+      <Property Id="90000006" Type="System.Guid" Value="cabbe61f-a59d-4c78-a029-745d9ab30660" />
+      <Property Id="80000021" Type="System.String" Value="ref" />
+      <Property Id="80000052" Type="System.Int32" Value="3" />
+      <Property Id="80000053" Type="System.Int32" Value="31" />
+      <Property Id="80000054" Type="System.Int32" Value="62" />
+      <Property Id="80000055" Type="System.Int32" Value="73" />
+      <Property Id="80000069" Type="Datablau.LDM.NotationType" Value="InformationEngineering" />
+      <Property Id="80000070" Type="Datablau.LDM.RelationalType" Value="NonIdentifying" />
+      <Property Id="80000071" Type="Datablau.LDM.CardinalityType" Value="ZeroOrOne" />
+      <Property Id="80000072" Type="Datablau.LDM.CardinalityType" Value="OneOnly" />
+      <Property Id="80000073" Type="Datablau.LDM.Direction" Value="Unidirectional" />
+      <Property Id="80000074" Type="System.String" Value="fundproduct" />
+      <Property Id="80000075" Type="System.String" Value="fundcompany" />
+      <Property Id="80000076" Type="System.String" Value="0,1" />
+      <Property Id="80000077" Type="System.String" Value="1,n" />
+    </Object>
+  </Model>
+</File>
